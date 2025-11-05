@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>wr.EmbrasureCover85Percent</packageId>
+    <modVersion>0.1</modVersion>
+    <name>Embrasure Cover (85%)</name>
+    <author>wuphonsreach</author>
+    <url>https://github.com/WuphonsReach/rimworld-embrasure-cover-85pct</url>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modDependencies>
+        <!-- no hard dependencies -->
+    </modDependencies>
+    <loadAfter>
+        <li>Harkon.VEAddOn.VanillaExpandedExtraEmbrasures</li>
+        <li>NuanKi.ConcreteWalls</li>
+        <li>SickBoyWi.Vault.OnePointOne</li>
+        <li>Wyr3d.ReinforcedWallsResumed</li>
+    </loadAfter>
+    <description>
+Increase embrasure coverage to 85%.
+    </description>
+</ModMetaData>

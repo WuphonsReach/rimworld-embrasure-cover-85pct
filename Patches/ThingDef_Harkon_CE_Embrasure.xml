@@ -1,0 +1,8 @@
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="CE_Embrasure"]/fillPercent</xpath>
+    <value>
+      <fillPercent>.85</fillPercent>
+    </value>
+  </Operation>
+</Patch>

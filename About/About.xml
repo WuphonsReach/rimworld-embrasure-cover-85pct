@@ -18,6 +18,8 @@
         <li>Wyr3d.ReinforcedWallsResumed</li>
     </loadAfter>
     <description>
-Increase embrasure coverage to 85%.
+Increase embrasure coverage to 85%.  Doors and walls are 75%.  We should at least be better instead of the 70% that we get from some mods.
+
+This is very over-powered for the base game since enemies can't pass through the embrasure tiles.
     </description>
 </ModMetaData>
